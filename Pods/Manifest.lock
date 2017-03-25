@@ -1,0 +1,12 @@
+PODS:
+  - Pratiktest2 (0.1.2)
+
+DEPENDENCIES:
+  - Pratiktest2
+
+SPEC CHECKSUMS:
+  Pratiktest2: 34ef974f35cab7e2e5b53f39e0a874edf5e76f6a
+
+PODFILE CHECKSUM: 7b6c8b48635c164dab7e40ece280838e343ebace
+
+COCOAPODS: 1.2.0

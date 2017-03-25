@@ -1,0 +1,6 @@
+framework module Pratiktest2 {
+  umbrella header "Pratiktest2-umbrella.h"
+
+  export *
+  module * { export * }
+}
